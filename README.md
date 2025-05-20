@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulrajesh131999
 - 👀 I’m interested in ... designing and programming 
-- 🌱 I’m currently learning ...react native,react,nodejs,express,3js
+- 🌱 I’m currently learning ...react native,react,nodejs,express,react three fiber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rahulraajesh138@gmail.com
 - 😄 Pronouns: ...
