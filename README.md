@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rahulrajesh131999
-- 👀 I’m interested in ... designing and programming 
-- 🌱 I’m currently learning ...react native,react,nodejs,express,react three fiber
+- 👀 I’m interested in ... designing and programming ,
+- ✨ I am a passionate and detail-oriented full-stack web developer with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js).
+- 🌱 I’m currently learning ...react native,react three fiber,Next js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rahulraajesh138@gmail.com
+- 📫 How to reach me ... rahulrajesh1399@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
