@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulrajesh131999
 - 👀 I’m interested in ... designing and programming ,
-- ✨ I am a passionate and detail-oriented full-stack web developer with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js) and Nextjs.
-- 🌱 I’m currently learning ...react native,react three fiber
+Full-stack Web Developer with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js) and Next.js. I also have a solid base in React Native and enjoy building scalable, user-focused web and mobile applications.
+- 🌱 I’m currently diving into Blockchain development, focusing on Solidity (Ethereum dApps & Smart Contracts) and Rust (Solana & Web3 systems).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rahulrajesh1399@gmail.com
 - 😄 Pronouns: ...
